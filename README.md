@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jkavipriyan
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning basics of machine learning and python data stuctures as my background is not computer science
-- 💞️ I’m looking to collaborate on challenging and engaging ML and DS projects
+- 👀 I’m interested in Computer technologies and Software development
+- 🌱 I’m currently learning web development and data stuctures as my background is not computer science
+- 💞️ I’m looking to collaborate on challenging and engaging projects
 - 📫 mail me at kavippriyanofficial@gmail.com 
 
 <!---
